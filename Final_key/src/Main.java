@@ -1,6 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         /*
         Final anahtar kelimesi ile tanımlanan bir özelliğin değeri sadece ve sadece bir defa veriliyor(belirleniyor)
         başka bir noktada bu özelliğin değerini değiştiremiyoruz
