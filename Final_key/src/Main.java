@@ -8,7 +8,7 @@ public class Main {
         bu noktalar dışında değer vermeye çalıştığımızda java bize otomatik olarak hata veriyor
         bu özellikler sayesinde özelliklerimizin durduk yere yada anlamsızca değer değişimine uğramasının önüne geçmiş oluyoruz
         Final anahtar kelimesi ile tanımlanmış yapıalrın getter ve setter olmaz
-        
+        //Source = Mustafa Murat COŞKUN / UDEMY referans alınarak geliştirilmiştir..
         */
         
         FinalTest finalTest = new FinalTest("hllbr");
